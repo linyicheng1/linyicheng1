@@ -1,9 +1,12 @@
-### Hi there 👋
+
 
 [![Lin Yicheng's github stats](https://github-readme-stats.vercel.app/api?username=linyicheng1&show_icons=true&include_all_commits=true)](https://github.com/linyicheng1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linyicheng1&layout=compact)](https://github.com/linyicheng1/github-readme-stats)
 
 <!--
 **linyicheng1/linyicheng1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
