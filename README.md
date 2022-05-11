@@ -1,5 +1,8 @@
 Hello, I am Lin Yicheng
 
+- 🔭 I’m currently working on visual SLAM, laser SLAM and motion planning.
+- 📫 How to reach me: 
+
 [![Lin Yicheng's github stats](https://github-readme-stats.vercel.app/api?username=linyicheng1&show_icons=true&include_all_commits=true)](https://github.com/linyicheng1)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linyicheng1&layout=compact)](https://github.com/linyicheng1/github-readme-stats)
