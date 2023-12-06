@@ -1,10 +1,10 @@
-<img src="https://storage.live.com/items/B149F35319CAD365!2138?authkey=ANFgi5h3UzMEHv8" alt="Hello! I am Lin Yicheng" Height = "80">
+<!--<img src="https://storage.live.com/items/B149F35319CAD365!2138?authkey=ANFgi5h3UzMEHv8" alt="Hello! I am Lin Yicheng" Height = "80">
 
 **About me:**
 
 - 🏫 A PhD student at Huazhong University of Science and Technology.
 - ❤️ I’m currently working on visual SLAM, laser SLAM and motion planning.
-
+-->
 <a href="https://www.zhihu.com/people/xiao-lin-tong-xue-76-22"><img src="https://storage.live.com/items/B149F35319CAD365!2132?authkey=ANFgi5h3UzMEHv8" alt="知乎" width = "20"></a>
 <a href="https://blog.csdn.net/RoboChengzi?spm=1000.2115.3001.5343"><img src="https://storage.live.com/items/B149F35319CAD365!2133?authkey=ANFgi5h3UzMEHv8" alt="CSDN" width = "20"></a>
 <a href="https://linyicheng1.github.io/"><img src="https://storage.live.com/items/B149F35319CAD365!2134?authkey=ANFgi5h3UzMEHv8" alt="个人网站" width = "20"></a>
